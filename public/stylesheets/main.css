@@ -1,0 +1,9 @@
+.answer {
+    font-size: 20em;
+    font-weight: bold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 100%;
+    text-align: center;
+    top: 100px;
+    position: relative;
+}
